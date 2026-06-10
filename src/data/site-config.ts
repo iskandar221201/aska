@@ -46,7 +46,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [],
     hero: {
         title: 'I build AI systems that actually run in production.',
-        text: "I'm **Aska**, a solo AI builder and developer from West Java, Indonesia.\n\nNot demos. Not prototypes. A multi-tenant WhatsApp AI platform handling real customer conversations — built solo, running on **$0/month** in AI costs through provider rotation and smart architecture.\n\nI write about AI cost optimization, building production systems with limited resources, and the gap between AI hype and what actually works when real users depend on it.",
+        text: "I'm **Aska**, a solo AI builder and developer from West Java, Indonesia.\n\nNot demos. Not prototypes. A multi-tenant WhatsApp AI platform handling real customer conversations : built solo, running on **$0/month** in AI costs through provider rotation and smart architecture.\n\nI write about AI cost optimization, building production systems with limited resources, and the gap between AI hype and what actually works when real users depend on it.",
         image: {
             src: hero,
             alt: 'Aska Diredja'
