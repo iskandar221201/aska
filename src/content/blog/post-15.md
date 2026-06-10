@@ -1,6 +1,6 @@
 ---
-title: From 17 Seconds to 1 Second: What Bad Architecture Looks Like in Production
-excerpt: The story of how a few sleep() calls in a rotation loop created a latency disaster, and how a persistent circuit breaker solved it.
+title: "From 17 Seconds to 1 Second: What Bad Architecture Looks Like in Production"
+excerpt: "The story of how a few sleep() calls in a rotation loop created a latency disaster, and how a persistent circuit breaker solved it."
 publishDate: 'Jun 10 2026'
 isFeatured: true
 tags:
