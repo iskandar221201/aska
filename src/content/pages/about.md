@@ -23,10 +23,17 @@ I don't build demos. I build things that run in production with real users depen
 
 ## What I Write About
 
-- AI cost optimization — running real systems on minimal budget
-- Production AI architecture — what actually works vs. what sounds good
-- Building as a solo operator — doing more with less
+AI is powerful. But most conversations about it are either too theoretical or too expensive to replicate.
 
+I write about the middle ground — practical, production-tested ideas for anyone trying to use AI seriously without a big budget or a big team:
+
+- **AI cost optimization** — running real systems on minimal budget
+- **Production AI architecture** — what actually works vs. what sounds good
+- **AI workflows for creators** — prompting, creative systems, and building on-brand output
+- **Building as a solo operator** — doing more with less, faster than a team
+- **The efficient AI ecosystem** — tools, stacks, and habits that compound over time
+
+Whether you're a founder, a marketer, a developer, or just someone trying to integrate AI into your work without overpaying — you're in the right place.
 ## Get in Touch
 
 Have a question, want to collaborate, or just want to talk about building things with AI?
